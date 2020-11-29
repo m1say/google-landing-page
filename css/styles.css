@@ -19,7 +19,7 @@ body {
 	--bg-color-btn: #f8f9fa;
 	--bg-color-footer: #f1f1f1;
 	--menu-position: -132px -38px;
-	--bg-image-switch: url(https://i.postimg.cc/857jHw2q/Screenshot-2020-04-16-at-1-07-06-PM.png);
+	--bg-image-switch: url(../images/light-theme.png);
 	--bg-color-switch: #e0dd7b;
 }
 
@@ -32,7 +32,7 @@ body {
 	--bg-color-btn: #191a1a;
 	--bg-color-footer: #0d0d0d;
 	--menu-position: 64px -35px;
-	--bg-image-switch: url(https://i.postimg.cc/Hn0nstVK/Screenshot-2020-04-16-at-1-07-19-PM.png);
+	--bg-image-switch: url(../images/dark-theme.png);
 	--bg-color-switch: #809bb7;
 }
 
